@@ -5,133 +5,24 @@ Variables are used to store data, while data types define the kind of informatio
 Understanding variables and data types is one of the most important foundations of programming because every program works with data.
 
 ---
+## Topics Covered
 
-# Variables and Data Types Concepts
+* **Variables** → Used to store data.
+* **String (`str`)** → Stores text values.
+* **Integer (`int`)** → Stores whole numbers.
+* **`print()` Function** → Displays output on the screen.
+* **`type()` Function** → Shows the data type of a variable.
 
-- What is a Variable
-- What is Memory
-- Assignment Operator
-- Variable Naming Rules
-- Reserved Keywords in Python
-- Data Types in Python
-- String Data Type
-- Integer Data Type
-- Float Data Type
-- Boolean Data Type
-- `type()` Function
+## Task
 
----
+* Store personal information in variables:
 
-# What is a Variable?
-
-## Definition
-
-A variable is a name given to a memory location where data is stored.
-
-### Simple Definition
-
-A variable is like a container that holds data.
-
-## Example
-
-```python
-name = "Zoha"
-```
-
-Here:
-
-- `name` = Variable
-- `"Zoha"` = Stored Value
-
----
-
-# What is Memory?
-
-## Definition
-
-Memory (RAM) is the computer’s temporary storage area.
-
-### Simple Definition
-
-Memory is a place where data is stored while a program is running.
-
-## Easy Example
-
-Think of memory like a:
-
-🧠 **Whiteboard in a classroom**
-
-- You write information temporarily.
-- When erased → data is gone.
-
----
-# Variable Naming Rules
-
-## Rules
-
-✔ Must start with a letter or underscore (`_`)
-
-✔ Cannot start with a number
-
-✔ No spaces allowed
-
-✔ Case-sensitive
-
-✔ Cannot use reserved keywords
-
-✔ Variable names may contain:
-- Uppercase letters (`A-Z`)
-- Lowercase letters (`a-z`)
-- Numbers (`0-9`)
-- Underscore (`_`)# Important Note on Keywords
-
-✔ Keywords are built-in words.
-
-✔ Python uses them for logic and program structure.
-
-✔ We should never use them as variable names.
-
-✔ Keywords already have special meanings in Python.
-
----
-
-# Data Types in Python
-
-Python has different types of data.
-
----
-# 1️⃣ String (`str`)
-
-# 2️⃣ Integer (`int`)
-
-
-# 3️⃣ Float (`float`)
-
-
-# 4️⃣ Boolean (`bool`)
-
----
-
-# `type()` Function
-
-We use `type()` to check a variable's data type.
-
-## Example
-
-```python
-x = 10
-print(type(x))
-```
-
-## Output
-
-```python
-<class 'int'>
-```
-
-## Purpose
-
-Helps us know what type of data a variable stores.
+  * Name
+  * Age
+  * City
+  * Class/Course
+* Display each value using `print()`.
+* Display the data type of each variable using `type()`.
 
 ## Code
 
