@@ -1,4 +1,4 @@
- # 📘 Lecture 03: Variables and Data Types  
+# Variables and Data Types  
 
 Variables are used to store data, while data types define the kind of information stored inside a variable.
 
