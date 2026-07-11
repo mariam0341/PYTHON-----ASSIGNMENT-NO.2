@@ -100,52 +100,15 @@ Think of memory like a:
 Python has different types of data.
 
 ---
-
 # 1️⃣ String (`str`)
-
-Text data.
-
-## Example
-
-```python
-name = "Zoha"
-```
-
----
 
 # 2️⃣ Integer (`int`)
 
-Whole numbers.
-
-## Example
-
-```python
-age = 20
-```
-
----
 
 # 3️⃣ Float (`float`)
 
-Decimal numbers.
-
-## Example
-
-```python
-price = 99.5
-```
-
----
 
 # 4️⃣ Boolean (`bool`)
-
-True / False values.
-
-## Example
-
-```python
-is_student = True
-```
 
 ---
 
@@ -175,37 +138,4 @@ Helps us know what type of data a variable stores.
 This is my second Python assignment, introducing the fundamental concepts of Variables and Data Types in Python, including variables, memory, naming rules, data types, and the `type()` function.
 
 
-```python
-name = "Mariam Kamran"
-age = 12
-city = "Karachi"
-course = "JavaScript and Python"
-
-print("My name is", name)
-print(type(name))
-
-print("I am", age, "years old")
-print(type(age))
-
-print("I live in", city)
-print(type(city))
-
-print("I am currently learning", course)
-print(type(course))
-```
-
-## Output
-
-```
-My name is Mariam Kamran
-<class 'str'>
-
-I am 12 years old
-<class 'int'>
-
-I live in Karachi
-<class 'str'>
-
-I am currently learning JavaScript and Python
-<class 'str'>
-```
+<img width="1851" height="970" alt="image" src="https://github.com/user-attachments/assets/56303718-26db-4ce0-8d25-23db4a2e3eaf" />
